@@ -1,2 +1,2 @@
 # Surge
-ss.sodule»ñÈ¡µØÖ·£ºhttps://raw.githubusercontent.com/hancj0528/Surge/master/ss.module
+ss.soduleè·å–åœ°å€ï¼šhttps://raw.githubusercontent.com/hancj0528/Surge/master/ss.module
